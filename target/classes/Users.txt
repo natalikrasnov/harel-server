@@ -1,0 +1,30 @@
+<usersData>
+    <users>
+        <name>
+            Natali
+        </name>
+        <lastName>
+            Krasnov
+        </lastName>
+        <email>
+            nata555560@gmail.com
+        </email>
+        <password>
+            natali1@
+        </password>
+    </users>
+    <users>
+        <name>
+            harel
+        </name>
+        <lastName>
+            test
+        </lastName>
+        <email>
+            haarel@harel.com
+        </email>
+        <password>
+            harel1@
+        </password>
+    </users>
+</usersData>
